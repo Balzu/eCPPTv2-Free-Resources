@@ -1,10 +1,10 @@
-# eCPPTv2-Additional-Resources
-Additional, (almost always) Free Resources to prepare for eCPPTv2 exam (PTPv5 course)
+# eCPPTv2-Free-Resources
+Collection of additional, (almost always) free resources to prepare for eCPPTv2 exam (PTPv5 course)
 
 ## 1. System Security
 ###    1. Architecture Fundamentals
 
-* [Corelan post](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)): introduces registries, stack, heap and other architecture components before performing buffer overflow. Good because pragmatic, stop readin before first buffer overflow for now.
+* [Corelan post](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/): introduces registries, stack, heap and other architecture components before performing buffer overflow. Good because pragmatic, stop readin before first buffer overflow for now.
  * [Princeton's Assembler part 1](https://www.cs.princeton.edu/courses/archive/spr18/cos217/lectures/13_Assembly1.pdf): introduces basic assembler structures. Good because short. Any Computer Architecture book is fine, but would flood with too many details for our purpose
 * [Princeton's Assembler part 2](https://www.cs.princeton.edu/courses/archive/spr18/cos217/lectures/14_Assembly2.pdf): introduces loops and the different addressing mechanisms. Can help understand how assembly code works.
 * [Princeton's Assembler part 3](https://www.cs.princeton.edu/courses/archive/spr18/cos217/lectures/15_AssemblyFunctions.pdf): this is very important part because introduces function calls and stack usage. Will need to understand carefully to perform stack-based buffer overflows.
@@ -14,9 +14,12 @@ Additional, (almost always) Free Resources to prepare for eCPPTv2 exam (PTPv5 co
 
 ###    2. Assembles Debuggers and Tool Arsenal
 
- * [Basic Reverse Engineering with Immunity]([https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://sansorg.egnyte.com/dl/4hgFyEhWUC))): Debug of smalls c programs with Immunity Debugger
+ * [Basic Reverse Engineering with Immunity](https://sansorg.egnyte.com/dl/4hgFyEhWUC))): Debug of smalls c programs with Immunity Debugger.  
 
 ###    3. Buffer Oveflows
+
+* [Penetration Testing: A Hands-On Introduction to Hacking](https://nostarch.com/pentesting): Chapters 16,17 and 18 cover, respectively, buffer overflow in Linux, Windows and SEH overwrite (\*not free)
+
 ###    4. Shellcoding
 ###    5. Crytpo and Password Cracking
 ## 2. Network Security
