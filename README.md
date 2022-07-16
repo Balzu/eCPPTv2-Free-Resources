@@ -52,7 +52,8 @@ Additional, (almost always) Free Resources to prepare for eCPPTv2 exam (PTPv5 co
 ###    9. Exploitation with Ruby
 ###    10. Metasploit
 
-Note: eCPPTv2 is a certification provided by © eLearnSecurity.
+
+**Note:** eCPPTv2 is a certification provided by © eLearnSecurity.
 This content is not endorsed by eLearnSecurity, no guarantee is given on its accuracty and should be taken 'as is'. 
 For official information, please refer to eLearnSecurity website.
 There you can find also references to the official course (PTP) for the eCPPT certification, provided by © INE
