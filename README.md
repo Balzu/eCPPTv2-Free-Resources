@@ -14,7 +14,7 @@ Collection of additional, (almost always) free resources to prepare for eCPPTv2 
 
 ###    2. Assembles Debuggers and Tool Arsenal
 
- * [Basic Reverse Engineering with Immunity](https://sansorg.egnyte.com/dl/4hgFyEhWUC))): Debug of smalls c programs with Immunity Debugger.  
+ * [Basic Reverse Engineering with Immunity](https://sansorg.egnyte.com/dl/4hgFyEhWUC): Debug of smalls c programs with Immunity Debugger.  
 
 ###    3. Buffer Oveflows
 
